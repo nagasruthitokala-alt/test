@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi G
+=======
+hi g.txt
+
+>>>>>>> 9bbcb96d035c331ac0ef59f81ecbcd97cfa4fb06
